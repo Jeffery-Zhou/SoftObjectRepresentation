@@ -1,6 +1,8 @@
 # Soft Object Representation
 On Data-Driven Representation of Bimanual Soft Object Manipulation Tasks
 
+[Detail Analysis Result](./RepresentationAnalysis.html)
+
 - Data Preliminary Exploration
 
   ![DataExploration](./DataExploration.png)
