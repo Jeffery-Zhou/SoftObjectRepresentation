@@ -7,9 +7,24 @@ On Data-Driven Representation of Bimanual Soft Object Manipulation Tasks
 
 - Data Visualization Result
 
-  <iframe src="./VisualizationRes/15Markers.html" width="700px" height="500px" frameborder="0" scrolling="no"> </iframe>
-![image-20191001190130392](/Users/jeffery/Library/Application Support/typora-user-images/image-20191001190130392.png)
-  
+  ![16m](./16m.png)
+
+![17m](./17m.png)
+
+
 - Representation with PCA (Benchmark)
 
-![image-20191001185800649](/Users/jeffery/Library/Application Support/typora-user-images/image-20191001185800649.png)
+  ![image-20191001185800649](/Users/jeffery/Library/Application Support/typora-user-images/image-20191001185800649.png)
+
+- Auto-Encoder (Linear Activation Function)
+
+- Auto-Encoder (Non-linear Activation Fuction)
+
+- ISOMAP
+
+- Random Forest
+
+
+
+
+
